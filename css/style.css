@@ -181,3 +181,16 @@ body {
 	padding-right: 40px;
 	padding-left: 0px;
 }
+
+
+/* JS */
+.anime {
+	opacity: 0;
+	transform: translate3d(-50px, 0, 0);
+}
+
+.anime-init {
+	opacity: 1;
+	transition: .3s all ease;
+	transform: translate3d(0, 0, 0);
+}
