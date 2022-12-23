@@ -1,4 +1,4 @@
-# ![](img/vanbook.png)
+# ![Vanbook](img/vanbook.png)
 
 ## Descrição: 
 Website Vanbook - Site de livros por assinatura.
